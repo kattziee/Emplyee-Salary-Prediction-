@@ -63,18 +63,18 @@ The application is deployed using Streamlit for easy access and real-time predic
 
 **How to Run**
 
-**Clone the Repository**
-
-git clone https://github.com/your-username/Employee-Salary-Prediction.git
-cd Employee-Salary-Prediction
-
-**Install Dependencies**
-
-pip install -r requirements.txt
-
 **Run the Application**
 
 streamlit run app.py
+
+       **Or**
+
+## Live Demo
+
+🔗 https://employeepredictionshahul.streamlit.app/
+
+Try the Employee Salary Prediction application online.
+
 
 **Business Use Cases**
 
